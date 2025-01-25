@@ -45,7 +45,7 @@ Note that portions of `src/open_clip/` modelling and tokenizer code are adaptati
 | Image Credit: https://github.com/openai/CLIP |
 
 ## Usage
-
+## By Mudassir Alam
 ```
 pip install open_clip_torch
 ```
